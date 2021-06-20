@@ -1,1 +1,2 @@
-# BaseCPPLessonsNew
+# BaseCPPLessons
+Основы С++ GeekBrains
